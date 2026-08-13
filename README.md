@@ -212,7 +212,3 @@ Thank you for visiting our bookstore. We wish you a great reading journey. Goodb
 ## 🔄 Next Phase
 
 To eliminate direct concrete instantiation, decouple system console I/O, and adhere to strict enterprise principles, **[Part 3: SOLID Principles](https://github.com/Sharaf-Ahmed-Dev/arch-3-solid)** introduces interface abstractions, repository patterns, and dependency inversion.
-
-```
-
-```
